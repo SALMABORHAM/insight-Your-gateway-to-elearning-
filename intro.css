@@ -1,0 +1,19 @@
+
+body{
+    position: absolute;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+    background: rgb(1, 245, 237);
+    color: black;
+    text-align: center;
+    font-family: cursive;
+}
+#cap{
+    font:50pt bold;
+    color: rgb(251, 255, 0);
+    
+        text-shadow: 4px 4px #000000;
+      
+    font-family: cursive;
+}

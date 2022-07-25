@@ -1,0 +1,60 @@
+body {
+  background-color: black;
+}
+table {
+  margin: 0 auto;
+}
+
+a:link {
+  text-decoration: solid;
+}
+table td {
+  vertical-align: top;
+  font-size: 23px;
+  font-weight: bold;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.lin:hover {
+  background-color: rgb(251, 255, 0);
+  color: black;
+  padding: 3px;
+  border-radius: 10%;
+}
+
+.lin:active {
+  text-decoration: underline;
+}
+a {
+  background-color: black;
+  color: rgb(251, 255, 0);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+#logo {
+  color: rgb(251, 255, 0);
+  font-size: 25px;
+  font-weight: bold;
+
+  text-shadow: rgb(255, 217, 0) 0px 0px 10px;
+
+  font-family: cursive;
+}
+
+#fr {
+  position: fixed;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  width: 100%;
+  border: none;
+  margin: 0;
+
+  overflow: auto;
+  z-index: 999999;
+  height: 100%;
+
+  margin-top: 50px;
+}

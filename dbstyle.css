@@ -1,0 +1,33 @@
+html {
+  background-image: url(db.jpg);
+  font-family: "Courier New", Courier, monospace;
+}
+body {
+  margin: 0 auto;
+  max-width: 1000px;
+  min-height: 100vh;
+  background-color: rgba(0, 126, 94, 0.801);
+  color: rgb(0, 0, 0);
+  line-height: 2em;
+  font-weight: bolder;
+}
+a {
+  color: #7bff00;
+  font-size: 22px;
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(255, 0, 0);
+}
+ul li {
+  font-size: large;
+}
+.box {
+  padding: 40px;
+}
+h1 {
+  color: #ff0000;
+  text-align: center;
+  font-size: 40pt;
+  text-shadow: rgb(255, 255, 255) 0px 0px 40px;
+}
